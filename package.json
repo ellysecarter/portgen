@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ellysecarter/portgen/issues"
   },
-  "homepage": "https://github.com/ellysecarter/portgen#readme"
+  "homepage": "https://github.com/ellysecarter/portgen#readme",
+  "dependencies": {
+    "inquirer": "^8.2.1"
+  }
 }
